@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderSHeE
-- 👀 I’m interested in CODING, AND LEADING 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on MICROSOFT 
+- 👀 I’m interested in everthing witch gives me growth 
+- 🌱 I’m currently learning full stack 
+- 💞️ I’m looking to collaborate with all kind of project  
 - 📫 How to reach me VIA TWITTER, AND GMAIL @pranshi999 ,PRANSHISHARMA999@GMAIL.COM
 
 <!---
