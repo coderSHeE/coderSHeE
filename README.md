@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "@coderSHeE"
 - 👀 I’m interested in collobration that's why im here :
-- 🌱 I’m currently learning  adv python , blockchain technology:
+- 🌱 I’m currently learning  FULL stack development :
 - 💞️ I’m looking to collaborate with all kind of project  :
 - 📫 How to reach me VIA "TWITTER", AND GMAIL "@pranshi7tech" ,"PRANSHISHARMA999@GMAIL.COM"
 
